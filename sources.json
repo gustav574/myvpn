@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {"name": "zieng2-wl", "url": "https://hub.mos.ru/zieng2/wl/raw/main/list_universal.txt%7Chttps://gitverse.ru/api/repos/zieng2/wl/raw/branch/master/list_universal.txt%7Chttps://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt%7Chttps://codeberg.org/zieng2/wl/raw/branch/main/vless_universal.txt%7Chttps://gitlab.com/zieng2/wl/raw/main/vless_universal.txt"},
+    {"name": "igareck-wl", "url": "https://gitlab.com/igareck/vpn-configs-for-russia/raw/main/Vless-Reality-White-Lists-Rus-Mobile.txt%7Chttps://codeberg.org/igareck/vpn-configs-for-russia/raw/branch/main/Vless-Reality-White-Lists-Rus-Mobile.txt%7Chttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt%7Chttps://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt"},
+    {"name": "RKP-wl", "url": "https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/main/whitelist.txt"},
+    {"name": "jsxta", "url": "https://gbr.mydan.online/configs"},
+    {"name": "bobrik", "url": "https://mifa.world/bobrik"},
+    {"name": "mahdibland", "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt"},
+    {"name": "soroush", "url": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"},
+    {"name": "freefq", "url": "https://raw.githubusercontent.com/freefq/free/master/v2"},
+    {"name": "Pawdroid", "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"}
+  ]
+}
